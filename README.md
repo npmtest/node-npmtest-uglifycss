@@ -1,4 +1,7 @@
-# test coverage for  [uglifycss (v0.0.25)](https://github.com/fmarcia/UglifyCSS)  [![npm package](https://img.shields.io/npm/v/npmtest-uglifycss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-uglifycss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-uglifycss.svg)](https://travis-ci.org/npmtest/node-npmtest-uglifycss)
+# npmtest-uglifycss
+
+#### basic test coverage for  [uglifycss (v0.0.25)](https://github.com/fmarcia/UglifyCSS)  [![npm package](https://img.shields.io/npm/v/npmtest-uglifycss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-uglifycss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-uglifycss.svg)](https://travis-ci.org/npmtest/node-npmtest-uglifycss)
+
 #### Port of YUI CSS Compressor to NodeJS
 
 [![NPM](https://nodei.co/npm/uglifycss.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/uglifycss)
